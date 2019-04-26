@@ -1,0 +1,30 @@
+body, html{
+  font-family: Arial;
+  margin: 0px ;
+  background: linear-gradient(to top left, #ADDBFB, #F3F3F3) fixed;
+  letter-spacing: 0.5px;
+  min-height: 100%;
+  line-height: 1.5;
+}
+header{
+background: rgba(169, 169, 169, 0.28);
+}
+.ArtMenu{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+main{
+	margin-top: 10px;
+  margin-bottom: 30px;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 30px;
+  min-height: 700px;
+  box-sizing: border-box;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
